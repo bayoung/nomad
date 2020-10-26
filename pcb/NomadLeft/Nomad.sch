@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L teensy:Teensy2.0_(C) U1
+L Nomad-rescue:Teensy2.0_(C)-teensy U1
 U 1 1 5D9E787D
 P 4150 6800
 F 0 "U1" H 4150 7700 60  0000 C CNN
